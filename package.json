@@ -1,0 +1,9 @@
+{
+  "name": "cantine-scolaire",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Application de gestion de cantine scolaire (tickets, menu, dépenses) déployée sur Netlify.",
+  "dependencies": {
+    "@netlify/blobs": "^10.7.13"
+  }
+}
